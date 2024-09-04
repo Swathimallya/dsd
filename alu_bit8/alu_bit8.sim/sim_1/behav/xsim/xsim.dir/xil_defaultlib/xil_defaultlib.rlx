@@ -1,0 +1,20 @@
+0.6
+2017.4
+Dec 15 2017
+21:07:18
+C:/Users/swath/LACA_4bit/LACA_4bit.srcs/sources_1/new/laca_4bit.v,1700623891,verilog,,C:/Users/swath/laca_8bits/laca_8bits.srcs/sources_1/new/laca_8bits.v,,LACA_4BIT,,,,,,,,
+C:/Users/swath/add_sub/add_sub.srcs/sources_1/new/add_sub.v,1700624412,verilog,,C:/Users/swath/bcd_to_8s/bcd_to_8s.srcs/sources_1/new/bcd_to_8s.v,,add_sub,,,,,,,,
+C:/Users/swath/adder_subtractor/adder_subtractor.srcs/sources_1/new/adder_subtracter.v,1700585358,verilog,,C:/Users/swath/bcd_to_8s/bcd_to_8s.srcs/sources_1/new/bcd_to_8s.v,,adder_subtracter,,,,,,,,
+C:/Users/swath/alu_bit8/alu_bit8.sim/sim_1/behav/xsim/glbl.v,1513215259,verilog,,,,glbl,,,,,,,,
+C:/Users/swath/alu_bit8/alu_bit8.srcs/sources_1/new/alu_bit8.v,1700633906,verilog,,,,alu_bit8,,,,,,,,
+C:/Users/swath/bcd_to_8s/bcd_to_8s.srcs/sources_1/new/bcd_to_8s.v,1700638842,verilog,,C:/Users/swath/binary_to_bcd/binary_to_bcd.srcs/sources_1/new/binary_to_bcd.v,,bcd_to_8s,,,,,,,,
+C:/Users/swath/binary_to_bcd/binary_to_bcd.srcs/sources_1/new/binary_to_bcd.v,1699262861,verilog,,C:/Users/swath/clk_1hz/clk_1hz.srcs/sources_1/new/clk_1hz.v,,binary_to_bcd,,,,,,,,
+C:/Users/swath/clk_1hz/clk_1hz.srcs/sources_1/new/clk_1hz.v,1697103341,verilog,,C:/Users/swath/comp_8bit/comp_8bit.srcs/sources_1/new/comp_8bit.v,,clk_1hz,,,,,,,,
+C:/Users/swath/comp_8bit/comp_8bit.srcs/sources_1/new/comp_8bit.v,1700567953,verilog,,C:/Users/swath/fsm_moore/fsm_moore.srcs/sources_1/new/fsm_moore.v,,comp_8bit,,,,,,,,
+C:/Users/swath/fsm_moore/fsm_moore.srcs/sources_1/new/fsm_moore.v,1700624758,verilog,,C:/Users/swath/jkff_down/jkff_down.srcs/sources_1/new/jkff_down.v,,fsm_moore,,,,,,,,
+C:/Users/swath/jkff_down/jkff_down.srcs/sources_1/new/jkff_down.v,1700588828,verilog,,C:/Users/swath/jkff_up/jkff_up.srcs/sources_1/new/jkff_up.v,,jkff_down,,,,,,,,
+C:/Users/swath/jkff_up/jkff_up.srcs/sources_1/new/jkff_up.v,1697099851,verilog,,C:/Users/swath/LACA_4bit/LACA_4bit.srcs/sources_1/new/laca_4bit.v,,jkff_up,,,,,,,,
+C:/Users/swath/laca_8bits/laca_8bits.srcs/sources_1/new/laca_8bits.v,1700625460,verilog,,C:/Users/swath/multiplier_4x4/multiplier_4x4.srcs/sources_1/new/multiplier_4x4.v,,laca_8bits,,,,,,,,
+C:/Users/swath/multiplier_4x4/multiplier_4x4.srcs/sources_1/new/multiplier_4x4.v,1700633319,verilog,,C:/Users/swath/sync_8bit/sync_8bit.srcs/sources_1/new/sync_8bit.v,,multiplier_4x4,,,,,,,,
+C:/Users/swath/sync_8bit/sync_8bit.srcs/sources_1/new/sync_8bit.v,1700625539,verilog,,C:/Users/swath/sync_down_8bit/sync_down_8bit.srcs/sources_1/new/sync_down_8bit.v,,sync_8bit,,,,,,,,
+C:/Users/swath/sync_down_8bit/sync_down_8bit.srcs/sources_1/new/sync_down_8bit.v,1700589321,verilog,,C:/Users/swath/alu_bit8/alu_bit8.srcs/sources_1/new/alu_bit8.v,,sync_down_8bit,,,,,,,,

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Thu Sep 14 15:34:07 2023
+# Process ID: 5300
+# Current directory: C:/Users/swath/full_adder/full_adder.runs/impl_1
+# Command line: vivado.exe -log full_adder.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source full_adder.tcl -notrace
+# Log file: C:/Users/swath/full_adder/full_adder.runs/impl_1/full_adder.vdi
+# Journal file: C:/Users/swath/full_adder/full_adder.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source full_adder.tcl -notrace

@@ -1,0 +1,27 @@
+Vivado Simulator 2017.4
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2017.4/bin/unwrapped/win64.o/xelab.exe -wto 407795c449c94bae8b12f4810b9eb86c --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot alu_bit8_behav xil_defaultlib.alu_bit8 xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-278] actual bit length 1 differs from formal bit length 8 for port s [C:/Users/swath/alu_bit8/alu_bit8.srcs/sources_1/new/alu_bit8.v:46]
+WARNING: [VRFC 10-278] actual bit length 8 differs from formal bit length 1 for port x [C:/Users/swath/alu_bit8/alu_bit8.srcs/sources_1/new/alu_bit8.v:49]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.clk_1hz
+Compiling module xil_defaultlib.comp_8bit
+Compiling module xil_defaultlib.LACA_4BIT
+Compiling module xil_defaultlib.laca_8bits
+Compiling module xil_defaultlib.add_sub
+Compiling module xil_defaultlib.multiplier_4x4
+Compiling module xil_defaultlib.jkff_up
+Compiling module xil_defaultlib.sync_8bit
+Compiling module xil_defaultlib.jkff_down
+Compiling module xil_defaultlib.sync_down_8bit
+Compiling module xil_defaultlib.fsm_moore
+Compiling module xil_defaultlib.binary_to_bcd
+Compiling module xil_defaultlib.bcd_to_8s
+Compiling module xil_defaultlib.alu_bit8
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot alu_bit8_behav

@@ -1,0 +1,22 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../add_sub/add_sub.srcs/sources_1/new/add_sub.v" \
+"../../../../../bcd_to_8s/bcd_to_8s.srcs/sources_1/new/bcd_to_8s.v" \
+"../../../../../binary_to_bcd/binary_to_bcd.srcs/sources_1/new/binary_to_bcd.v" \
+"../../../../../clk_1hz/clk_1hz.srcs/sources_1/new/clk_1hz.v" \
+"../../../../../comp_8bit/comp_8bit.srcs/sources_1/new/comp_8bit.v" \
+"../../../../../fsm_moore/fsm_moore.srcs/sources_1/new/fsm_moore.v" \
+"../../../../../jkff_down/jkff_down.srcs/sources_1/new/jkff_down.v" \
+"../../../../../jkff_up/jkff_up.srcs/sources_1/new/jkff_up.v" \
+"../../../../../LACA_4bit/LACA_4bit.srcs/sources_1/new/laca_4bit.v" \
+"../../../../../laca_8bits/laca_8bits.srcs/sources_1/new/laca_8bits.v" \
+"../../../../../multiplier_4x4/multiplier_4x4.srcs/sources_1/new/multiplier_4x4.v" \
+"../../../../../sync_8bit/sync_8bit.srcs/sources_1/new/sync_8bit.v" \
+"../../../../../sync_down_8bit/sync_down_8bit.srcs/sources_1/new/sync_down_8bit.v" \
+"../../../../alu_bit8.srcs/sources_1/new/alu_bit8.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

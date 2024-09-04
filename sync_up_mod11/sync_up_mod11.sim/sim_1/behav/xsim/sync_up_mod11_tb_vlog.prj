@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../jkff_up/jkff_up.srcs/sources_1/new/jkff_up.v" \
+"../../../../sync_up_mod11.srcs/sources_1/new/sync_up_mod11.v" \
+"../../../../sync_up_mod11.srcs/sim_1/new/sync_up_mod11_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
